@@ -1,0 +1,11 @@
+{
+    "timestamp": "2024-08-26T16:21:42.209123",
+    "content": {
+        "action": "add",
+        "pokemon": {
+            "id": 5,
+            "nome": "Eevee",
+            "tipo": "Normal"
+        }
+    }
+}
